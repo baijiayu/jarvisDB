@@ -1,0 +1,3 @@
+## Infrared remote control signals repository
+
+Infrared remote control signals from the [LIRC remote configurations](http://sourceforge.net/p/lirc-remotes/code/ci/master/tree/) project, converted to Pronto Hex and Protocol, Device, Subdevice, and Function using [lirc2xml](http://www.bengt-martensson.de/harc/lirc2xml.html) by Dr. Bengt Mårtensson and DecodeIR 2.40 by John S. Fine, revision by Graham Dixon.
